@@ -1,0 +1,29 @@
+_repo: Verses-1889-1896_323
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: The Writings in Prose and Verse of Rudyard Kipling, Volume XI
+gutenberg_issued: '2008-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+- !lcsh 'India -- Poetry'
+- GITenberg
+title: Verses 1889-1896
+url: http://www.gutenberg.org/ebooks/323
