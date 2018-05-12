@@ -1,5 +1,8 @@
 _repo: Verses-1889-1896_323
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: The Writings in Prose and Verse of Rudyard Kipling, Volume XI
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/323#Verses-1889-1896
 gutenberg_issued: '2008-06-29'
 gutenberg_type: Text
 identifiers:
